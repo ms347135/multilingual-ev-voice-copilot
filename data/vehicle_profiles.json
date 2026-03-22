@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BYD Seal Dynamic Range",
+    "vehicle_model": "Seal",
+    "market": "global"
+  },
+  {
+    "name": "BYD Dolphin City EV",
+    "vehicle_model": "Dolphin",
+    "market": "thailand"
+  },
+  {
+    "name": "BYD Atto 3 Touring",
+    "vehicle_model": "Atto 3",
+    "market": "hungary"
+  }
+]

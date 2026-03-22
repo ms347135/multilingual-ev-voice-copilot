@@ -1,0 +1,93 @@
+[
+  {
+    "id": "seal_fast_charge_en",
+    "title": "Seal Quick Start: DC Fast Charging Preparation",
+    "source_name": "seal_fast_charging_quick_start_demo.pdf",
+    "document_type": "charging_guide",
+    "vehicle_model": "Seal",
+    "model_year": "2025",
+    "market": "global",
+    "language": "en",
+    "section_title": "Fast charging preparation",
+    "risk_level": "caution",
+    "content": "Before DC fast charging, park safely, confirm the connector matches the station, and check that the charge port is dry and free of damage. Battery preconditioning can improve charging stability and speed when the pack is cold or very hot. If the vehicle has a navigation-linked preconditioning feature, start route guidance to the charger before arrival. If charging pauses around 80 to 82 percent, the system may be balancing cells or limiting charging because battery temperature is elevated. If the cable is locked or the station reports an error, stop the session normally, wait a short time, and retry once. Do not force the connector or attempt to open any high-voltage component covers."
+  },
+  {
+    "id": "seal_range_en",
+    "title": "Seal Owner Manual: Range and HVAC Efficiency",
+    "source_name": "seal_owner_manual_range_demo.pdf",
+    "document_type": "owner_manual",
+    "vehicle_model": "Seal",
+    "model_year": "2025",
+    "market": "global",
+    "language": "en",
+    "section_title": "Energy consumption guidance",
+    "risk_level": "normal",
+    "content": "Estimated range can decrease faster when cabin air conditioning is active, outside temperature is high or low, tire pressure is below specification, or repeated acceleration is used. For better efficiency, use Eco mode when practical, keep tires within the recommended pressure range, and pre-cool or pre-heat the cabin while the vehicle is plugged in. Short trips in heavy traffic may temporarily increase average energy use even when battery health is normal."
+  },
+  {
+    "id": "dolphin_service_en",
+    "title": "Dolphin Service FAQ: Charging Stops Near 82 Percent",
+    "source_name": "dolphin_service_faq_demo.pdf",
+    "document_type": "service_faq",
+    "vehicle_model": "Dolphin",
+    "model_year": "2025",
+    "market": "thailand",
+    "language": "en",
+    "section_title": "Charging interruption checks",
+    "risk_level": "caution",
+    "content": "If AC or DC charging stops near 80 to 82 percent, common causes include charger power sharing, station thermal limits, battery temperature protection, or a target state-of-charge setting. First confirm the requested target charge level in the vehicle settings or charging app. Then check the connector latch, station messages, and battery temperature warnings. If charging stops repeatedly across different chargers, record the time, state of charge, and any message shown in the vehicle before contacting authorized service."
+  },
+  {
+    "id": "atto_safety_en",
+    "title": "Atto 3 Roadside Safety Guide: Warning Indicators",
+    "source_name": "atto3_roadside_safety_demo.pdf",
+    "document_type": "roadside_safety",
+    "vehicle_model": "Atto 3",
+    "model_year": "2025",
+    "market": "hungary",
+    "language": "en",
+    "section_title": "Warning response basics",
+    "risk_level": "warning",
+    "content": "If a red brake warning, airbag warning, or high-voltage system warning is displayed, stop driving when it is safe to do so and contact authorized service. A tire pressure warning allows limited low-speed driving only if the tire is not visibly damaged and pressure is corrected promptly. Never open the battery pack, touch orange high-voltage cables, or continue driving when smoke, unusual heat, or burning odor is present."
+  },
+  {
+    "id": "seal_cn_range",
+    "title": "海豹用户手册：空调与续航说明",
+    "source_name": "seal_cn_range_demo.pdf",
+    "document_type": "owner_manual",
+    "vehicle_model": "Seal",
+    "model_year": "2025",
+    "market": "china",
+    "language": "zh",
+    "section_title": "续航影响因素",
+    "risk_level": "normal",
+    "content": "开启空调、外界温度过高或过低、频繁急加速、胎压偏低，都会让预计续航下降更快。如果条件允许，建议在车辆连接充电枪时提前调节座舱温度，并尽量保持轮胎气压在建议范围内。短途拥堵路况下，能耗读数短时间升高并不一定代表电池异常。"
+  },
+  {
+    "id": "seal_cn_charge",
+    "title": "海豹充电指南：快充前准备与中断处理",
+    "source_name": "seal_cn_charge_demo.pdf",
+    "document_type": "charging_guide",
+    "vehicle_model": "Seal",
+    "model_year": "2025",
+    "market": "china",
+    "language": "zh",
+    "section_title": "快充准备",
+    "risk_level": "caution",
+    "content": "直流快充前，请确认充电接口干燥、枪头连接可靠，并查看车辆是否存在充电目标值限制。如果电量在百分之八十到八十二附近停止，可能是电芯均衡、充电站功率限制或电池温度保护引起。建议先正常结束会话，稍后重试一次，并记录当时的电量、温度提示和充电站信息。不要强行拔枪，也不要尝试拆开任何高压部件。"
+  },
+  {
+    "id": "ev_glossary_bilingual",
+    "title": "EV Support Glossary",
+    "source_name": "ev_support_glossary_demo.pdf",
+    "document_type": "glossary",
+    "vehicle_model": "General",
+    "model_year": "2025",
+    "market": "global",
+    "language": "en",
+    "section_title": "Common terms",
+    "risk_level": "normal",
+    "content": "Battery preconditioning means preparing the battery temperature before charging. State of charge, or SOC, means the current battery percentage. Tire pressure warning refers to a system alert that one or more tires may be below the target pressure. 续航 means estimated driving range. 快充 means DC fast charging. 慢充 means AC charging."
+  }
+]

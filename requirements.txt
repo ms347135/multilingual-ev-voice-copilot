@@ -1,0 +1,7 @@
+streamlit>=1.42.0
+openai>=1.58.1
+qdrant-client>=1.12.1
+langchain-text-splitters>=0.3.3
+langchain-community>=0.3.12
+pypdf>=5.1.0
+python-dotenv>=1.0.1

@@ -1,0 +1,32 @@
+[
+  {
+    "query": "How do I precondition the battery before fast charging?",
+    "expected_intent": "charging_help",
+    "expected_language": "english"
+  },
+  {
+    "query": "Charging stopped at 82 percent. What should I safely check first?",
+    "expected_intent": "troubleshooting",
+    "expected_language": "english"
+  },
+  {
+    "query": "Why is my estimated range dropping while AC is on?",
+    "expected_intent": "range_question",
+    "expected_language": "english"
+  },
+  {
+    "query": "What does this tire pressure warning mean for highway driving?",
+    "expected_intent": "warning_light",
+    "expected_language": "english"
+  },
+  {
+    "query": "我的续航为什么在开空调的时候下降这么快？",
+    "expected_intent": "range_question",
+    "expected_language": "chinese"
+  },
+  {
+    "query": "快充到82%就停了，我先应该检查什么？",
+    "expected_intent": "troubleshooting",
+    "expected_language": "chinese"
+  }
+]

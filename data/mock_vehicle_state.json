@@ -1,0 +1,53 @@
+{
+  "BYD Seal Dynamic Range": {
+    "soc": 46,
+    "estimated_range_km": 268,
+    "outside_temperature_c": 31,
+    "battery_temperature_c": 39,
+    "charging_status": "not_charging",
+    "plug_connected": false,
+    "cabin_ac_on": true,
+    "tire_pressure_kpa": {
+      "front_left": 242,
+      "front_right": 244,
+      "rear_left": 240,
+      "rear_right": 241
+    },
+    "door_status": "closed",
+    "last_fault_codes": []
+  },
+  "BYD Dolphin City EV": {
+    "soc": 81,
+    "estimated_range_km": 214,
+    "outside_temperature_c": 33,
+    "battery_temperature_c": 43,
+    "charging_status": "interrupted",
+    "plug_connected": true,
+    "cabin_ac_on": false,
+    "tire_pressure_kpa": {
+      "front_left": 236,
+      "front_right": 237,
+      "rear_left": 235,
+      "rear_right": 236
+    },
+    "door_status": "closed",
+    "last_fault_codes": ["P0A9C"]
+  },
+  "BYD Atto 3 Touring": {
+    "soc": 64,
+    "estimated_range_km": 301,
+    "outside_temperature_c": 19,
+    "battery_temperature_c": 27,
+    "charging_status": "not_charging",
+    "plug_connected": false,
+    "cabin_ac_on": false,
+    "tire_pressure_kpa": {
+      "front_left": 228,
+      "front_right": 234,
+      "rear_left": 232,
+      "rear_right": 233
+    },
+    "door_status": "closed",
+    "last_fault_codes": ["C1234"]
+  }
+}
