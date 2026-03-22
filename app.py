@@ -188,14 +188,13 @@ def _render_query_experience(vehicle_state: dict) -> None:
         transcribed_text = None
         final_query = query.strip()
 
-        if audio_input is not None and getattr(audio_input, "getvalue", None) and audio_input.getvalue():
+        if not final_query and audio_input is not None and getattr(audio_input, "getvalue", None) and audio_input.getvalue():
             transcribed_text = transcribe_audio(
                 st.session_state.openai_client,
                 audio_input.getvalue(),
                 filename=getattr(audio_input, "name", "question.wav"),
             )
-            if not final_query:
-                final_query = transcribed_text
+            final_query = transcribed_text
 
         if not final_query:
             st.error("Enter or record a question first.")

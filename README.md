@@ -8,6 +8,26 @@ Voice-enabled RAG assistant for EV manuals, charging help, troubleshooting, and 
 
 The app answers EV questions in `English` or `Chinese`, retrieves citation-backed content from manuals and support documents, optionally combines that with mock live vehicle telemetry, and returns both text and spoken responses.
 
+## Real app screenshots
+
+### 1. Main app overview
+
+This screen shows the multilingual EV support interface with vehicle state, demo loading controls, voice input, and the core copilot workflow.
+
+![App Overview](assets/app-overview.png)
+
+### 2. English charging support answer
+
+This screen shows an English voice-enabled answer with telemetry-aware reasoning, source-backed citations, and audio playback.
+
+![English Answer](assets/answer-english.png)
+
+### 3. Chinese range and HVAC answer
+
+This screen shows multilingual answering in Chinese with citation-backed retrieval and the same product-style interface.
+
+![Chinese Answer](assets/answer-chinese.png)
+
 ## Why this matters
 
 Most voice chatbot demos are generic. This project is designed to feel closer to a real automotive support assistant by combining:
@@ -104,6 +124,7 @@ multilingual-ev-voice-copilot/
 ├── voice.py
 ├── data/
 ├── evals/
+├── assets/
 └── prompts/
 ```
 
