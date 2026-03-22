@@ -4,7 +4,7 @@ Voice-enabled RAG assistant for EV manuals, charging help, troubleshooting, and 
 
 ## What this project is
 
-`Multilingual EV Voice Copilot` is a recruiter-ready automotive AI project built from a generic voice-RAG example and transformed into a more realistic EV support product.
+`Multilingual EV Voice Copilot` is an automotive AI project built from a generic voice-RAG example and transformed into a more realistic EV support product.
 
 The app answers EV questions in `English` or `Chinese`, retrieves citation-backed content from manuals and support documents, optionally combines that with mock live vehicle telemetry, and returns both text and spoken responses.
 
@@ -156,17 +156,6 @@ Included topics:
 - uses mocked telemetry rather than a live vehicle interface
 - safety review improves behavior but is not a replacement for official service guidance
 
-## Why this is strong for a CV
+## Project origin
 
-This project demonstrates:
-
-- applied LLM product design
-- RAG and metadata-aware retrieval
-- multilingual UX thinking
-- voice interface integration
-- automotive troubleshooting workflows
-- safety-aware answer generation
-
-## Source lineage
-
-This repo started from the voice RAG example in `repo_inspect/voice_ai_agents/voice_rag_openaisdk` and was transformed into a standalone EV-focused portfolio project.
+This repo started from the voice RAG example in `repo_inspect/voice_ai_agents/voice_rag_openaisdk` and was adapted into a standalone EV-focused project with multilingual support, voice interaction, telemetry-aware reasoning, and safer troubleshooting flows.
